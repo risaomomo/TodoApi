@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "D:\\portableRisa\\dev\\Risa\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\portableRisa\\dev\\Risa\\.nuget\\packages"
+    ]
+  }
+}
